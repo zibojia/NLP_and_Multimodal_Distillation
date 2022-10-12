@@ -24,6 +24,8 @@
 
 ### Multimodal Learning
 
+(1) Masked Autoencoders Enable Efficient Knowledge Distillers. \[[link](https://arxiv.org/pdf/2208.12256.pdf)\]
+
 (1) Relational Knowledge Distillation. \[[link](https://arxiv.org/abs/1904.05068.pdf)\]
 
 (2) MiniVLM: A Smaller and Faster Vision-Language Model. \[[link](https://arxiv.org/abs/2012.06946.pdf)\]
