@@ -38,11 +38,11 @@
 
 (7) Distilled Dual-Encoder Model for Vision-Language Understanding. \[[link](https://arxiv.org/abs/2112.08723.pdf)\]
 
-(8) XDBERT: Distilling Visual Information to BERT from Cross-Modal Systems to Improve Language Understanding. \[[link](https://aclanthology.org/2022.acl-short.52.pdf)\]
+(8) XDBERT: Distilling Visual Information to BERT from Cross-Modahttps://arxiv.org/pdf/2203.00048.pdfl Systems to Improve Language Understanding. \[[link](https://aclanthology.org/2022.acl-short.52.pdf)\]
 
 (9) Multimodal Adaptive Distillation for Leveraging Unimodal Encoders for Vision-Language Tasks. \[[link](https://arxiv.org/pdf/2204.10496.pdf)\]
 
-
+(10) Multi-modal Alignment using Representation Codebook. \[[link](https://arxiv.org/pdf/2203.00048.pdf)\]
 
 
 
